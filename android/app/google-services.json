@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "971478078609",
+    "project_id": "flash-chat-74929",
+    "storage_bucket": "flash-chat-74929.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971478078609:android:b98dd07ed27f54b1051b30",
+        "android_client_info": {
+          "package_name": "co.moayman.flash_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_xM-qebrbwtOE6D3ozw28AFWUGfFQl4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
